@@ -6,16 +6,6 @@ In the last few years, the number of 311 complaints coming to the Department of 
 
 ***Goal:*** The Department of Housing Preservation and Development has approached your organization to help them manage the large volume of 311 complaints they are receiving every year.
 
-***Cap-Stone project Questions:*** The agency needs answers to several questions. The answers to those questions must be supported by data and analytics. These are their  questions:
-
-***Problem statement:***
-
-***Question 1:*** Which type of complaint should the Department of Housing Preservation and Development of New York City focus on first?¶ Strategy: There are many different categories of housing problems, one can focus on the category which has maximum complaints. This will help managment to better manage the resources.
-
-***Question 2:*** Should the Department of Housing Preservation and Development of New York City focus on any particular set of boroughs, ZIP codes, or street (where the complaints are severe) for the specific type of complaints you identified in response to Question 1?
-
-***Question 3:*** Does the Complaint Type that you identified in response to Question 1 have an obvious relationship with any particular characteristic or characteristic of the Houses?
-
 ***Datasets:*** You will use two datasets from the Department of Housing Preservation and Development of New York City to address their problems.
 311 complaint dataset
 
@@ -26,6 +16,17 @@ Download only the data that is related to the Department of Housing Preservation
 PLUTO dataset for housing
 
 This dataset for housing can be accessed from https://data.cityofnewyork.us/City-Government/Primary-Land-Use-Tax-Lot-Output-PLUTO-/xuk2-nczf. After you download the data, use only the part that is specific to the borough that you are interested in based on your analysis.
+
+***Cap-Stone project Questions:*** The agency needs answers to several questions. The answers to those questions must be supported by data and analytics. These are their  questions:
+
+***Problem statement:***
+
+***Question 1:*** Which type of complaint should the Department of Housing Preservation and Development of New York City focus on first?¶ Strategy: There are many different categories of housing problems, one can focus on the category which has maximum complaints. This will help managment to better manage the resources.
+
+***Question 2:*** Should the Department of Housing Preservation and Development of New York City focus on any particular set of boroughs, ZIP codes, or street (where the complaints are severe) for the specific type of complaints you identified in response to Question 1?
+
+***Question 3:*** Does the Complaint Type that you identified in response to Question 1 have an obvious relationship with any particular characteristic or characteristic of the Houses?
+
 
 ***Conclusions for the Problem Statement:***
 
